@@ -1,0 +1,19 @@
+R 640 360
+
+NO ./textures/eagle.xpm
+SO ./textures/fuhrer.xpm
+WE ./textures/grey_stone.xpm
+EA ./textures/mossy.xpm
+S ./textures/barrel.xpm
+
+F 220,10,0
+C 225,30,255
+
+111111111111
+1000000000011
+10000N0000 1111
+120000    0211
+1000 0000 01111
+1111111111111
+
+
